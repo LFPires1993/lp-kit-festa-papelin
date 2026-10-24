@@ -82,10 +82,10 @@ export default function Home() {
           <div className="hero-copy">
             <span className="eyebrow">
               <span className="eyebrow-dot" aria-hidden="true" />
-              UM DIA ESPECIAL MERECE UMA FESTA ESPECIAL
+              CAKE MANIA + PAPELIN OFICINA CREATIVA APRESENTAM
             </span>
             <h1>
-              Festinha
+              Kit festinha
               <br />
               <span>completa!</span>
             </h1>
@@ -116,7 +116,7 @@ export default function Home() {
               </span>
               Você cuida dos abraços e das fotos.
               <br />
-              A gente deixa a festinha incrivel!
+              A gente deixa sua festinha incrivel!
             </div>
           </div>
           <div className="hero-art">
