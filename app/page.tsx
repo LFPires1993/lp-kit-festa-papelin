@@ -1,34 +1,34 @@
 const themes = [
   {
-    name: "Safari baby",
+    name: "Safari",
     image:
-      "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=900&q=85",
+      "https://i.ibb.co/21jb5cKg/safari.jpg",
     className: "theme-card--safari",
   },
   {
-    name: "Fundo do mar",
+    name: "Fazendinha",
     image:
-      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=900&q=85",
-    className: "theme-card--ocean",
+      "https://i.ibb.co/GQxz3zrL/fazendinha.jpg",
+    className: "theme-card--little-farm",
   },
   {
-    name: "Jardim encantado",
+    name: "Bluey",
     image:
-      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=900&q=85",
-    className: "theme-card--garden",
+      "https://i.ibb.co/Ps60TPkj/bluey.jpg",
+    className: "theme-card--bluey",
   },
   {
-    name: "Diversão colorida",
+    name: "Floresta encantada",
     image:
-      "https://images.unsplash.com/photo-1464207687429-7505649dae38?auto=format&fit=crop&w=900&q=85",
-    className: "theme-card--colorful",
+      "https://i.ibb.co/kgB1GMR8/floresta-encantada.jpg",
+    className: "theme-card--harvest",
   },
 ];
 
 const kitItems = [
-  "1 bolo de 15 fatias, com recheios tradicionais",
+  "1 bolo de 15cm de diâmetro (12 a 15 fatias), com recheios tradicionais",
   "50 docinhos de festa, sabores tradicionais",
-  "Topo de bolo 3D com “Parabéns” ou nome do aniversariante, apliques e idade opcional",
+  "Topo de bolo 3D com “Parabéns” ou nome do aniversariante e apliques; Idade opcional",
   "25 topos para docinhos ou cupcakes com elementos no tema",
   "9 mini chapeuzinhos para decorar docinhos ou cupcakes",
   "2 enfeites de mesa com aproximadamente 25 cm",
@@ -82,7 +82,7 @@ export default function Home() {
           <div className="hero-copy">
             <span className="eyebrow">
               <span className="eyebrow-dot" aria-hidden="true" />
-              CAKE MANIA + PAPELIN OFICINA CREATIVA APRESENTAM
+              CAKE MANIA + PAPELIN OFICINA CRIATIVA APRESENTAM
             </span>
             <h1>
               Kit festinha
@@ -236,11 +236,11 @@ export default function Home() {
         <section className="catalog-section" id="lista-temas">
           <div className="section-wrap catalog-inner">
             <div className="catalog-heading">
-              <span className="eyebrow">AQUI TEM O TEMA FAVORITO</span>
+              <span className="eyebrow">AQUI TEM SEU TEMA FAVORITO</span>
               <h2>
                 Qual vai ser
                 <br />
-                <span>a sua aventura?</span>
+                <span> a sua aventura?</span>
               </h2>
               <p>
                 Escolha um tema da lista e imagine a alegria de ver tudo

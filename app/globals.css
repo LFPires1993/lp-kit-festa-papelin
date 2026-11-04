@@ -307,7 +307,7 @@ a:focus-visible {
   border-radius: 48% 48% 35% 35%;
   background:
     linear-gradient(180deg, rgb(38 59 54 / 0%) 50%, rgb(38 59 54 / 18%) 100%),
-    url("https://images.unsplash.com/photo-1531956531700-dc0ee0f1f9a5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D")
+    url("https://i.ibb.co/spG3YPws/capa-fazendinha.jpg")
       center / cover;
   box-shadow: 0 22px 55px rgb(55 63 53 / 11%);
   transform: rotate(2deg);
@@ -460,15 +460,15 @@ a:focus-visible {
   background-position: 54% center;
 }
 
-.theme-card--ocean {
+.theme-card--little-farm {
   background-position: 44% center;
 }
 
-.theme-card--garden {
+.theme-card--bluey {
   background-position: 48% center;
 }
 
-.theme-card--colorful {
+.theme-card--harvest {
   background-position: 48% center;
 }
 
@@ -524,6 +524,7 @@ a:focus-visible {
 .kit-intro {
   position: relative;
   padding-top: 17px;
+  padding-bottom: 10px;
 }
 
 .kit-intro > p,
